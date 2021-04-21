@@ -5,7 +5,7 @@ This system uses uv to kill germs and virous from surfaces ,it has a timer and a
   # FEATURES
  ```
 1. UV sanitization
-2. safty system using motion sensor
+2. safety system using motion sensor
 3. timer based power down
 ``` 
 
